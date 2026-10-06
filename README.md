@@ -9,12 +9,12 @@ struct data {
   float b;    
   char c;    
   double d;    
-  int e; 
-  } x, y; 
+  int e;
+} x, y; 
   
 - assignments of constant values to some fields of one (or more) defined variable, for instance
 
-x.a = 2; 
+x.a = 2;
 x.c = 'c'; 
 
 As output you may print the values assigned to the fields, as for instance 
